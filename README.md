@@ -9,10 +9,8 @@
 
 ## In Mobile View <br><br>
 
+![Screenshot (23)](https://user-images.githubusercontent.com/107469214/221340786-2ee5e083-b182-43a2-9198-0c6b791fcdd7.png)<br><br>
 ![Screenshot (24)](https://user-images.githubusercontent.com/107469214/221340734-9dabd040-98f6-4b65-962c-9b199ca01fad.png) <br><br>
-
-![Screenshot (23)](https://user-images.githubusercontent.com/107469214/221340786-2ee5e083-b182-43a2-9198-0c6b791fcdd7.png)
-<br><br>
 
 ## Steps to run project
 1. Clone the repository using `git clone` command.
